@@ -48,3 +48,6 @@ To complete this project, your backend code must:
 - [ ] Contain at least 3 methods for comparing dinosaurs to the human
 - [ ] Get user data from the DOM
 - [ ] Append tiles with object data to DOM
+
+###Screenshots 
+![dino1](https://user-images.githubusercontent.com/113782279/235802691-c9f20e89-dd69-4ba8-8c2d-82270e736a40.png)
