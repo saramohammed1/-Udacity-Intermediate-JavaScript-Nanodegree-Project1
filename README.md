@@ -51,3 +51,5 @@ To complete this project, your backend code must:
 
 ###Screenshots 
 ![dino1](https://user-images.githubusercontent.com/113782279/235802691-c9f20e89-dd69-4ba8-8c2d-82270e736a40.png)
+<img width="945" alt="dino2" src="https://user-images.githubusercontent.com/113782279/235803024-11d5e5f2-2535-40f0-aa4e-2a99639908fc.png">
+
